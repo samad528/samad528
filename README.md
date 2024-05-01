@@ -4,7 +4,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+###![Anime](https://github.com/samad528/samad528/assets/73984657/5031b597-d7d0-4963-b905-c5ff0b868b07)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
