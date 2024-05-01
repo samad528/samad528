@@ -3,7 +3,7 @@
 ###
 
 
-<img src="https://github.com/samad528/samad528/assets/73984657/5031b597-d7d0-4963-b905-c5ff0b868b07" align="right" height="150">
+<img src="https://github.com/samad528/samad528/assets/73984657/5031b597-d7d0-4963-b905-c5ff0b868b07" align="right" height="150" width="100">
 
 
 <div align="left">
